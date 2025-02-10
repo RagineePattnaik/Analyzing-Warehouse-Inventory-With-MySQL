@@ -1,9 +1,6 @@
 # Analyzing-Warehouse-Inventory-With-MySQL
 # Mint Classics Warehouse Inventory Analysis
 
-In this project, I will step into the shoes of an entry-level data analyst at the fictional Mint Classics Company, helping to analyse data in a relational database with the goal of supporting inventory-related business decisions that lead to the closure of a storage facility. 
-
-
 ## *Table of Contents*
 
 1. [Project Scenario](#project-scenario)
